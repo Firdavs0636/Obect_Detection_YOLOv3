@@ -1,0 +1,2 @@
+blob = In computer vision, blob detection methods are aimed at detecting regions in a digital image that differ in properties, such as brightness or color, compared to surrounding regions.
+bounding boxes = are rectangular region annotations used for supervised computer vision (CV). The bounding box annotates objects within the image, such as anything from a person to a plant or vehicle. The supervised model learns about the content inside the bounding box to predict objects when exposed to unseen data.
